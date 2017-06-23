@@ -12,7 +12,10 @@ public class Index {
 		}
 		for(int i=0;i<n;i++){
 			if(i==a[i]){
-				System.out.println(a[i]);
+				System.out.println( " Index and Array value are equal");
+			}
+			else{
+				System.out.println( " Index and Array value are equal");
 			}
 			
 			
